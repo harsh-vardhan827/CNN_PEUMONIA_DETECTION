@@ -18,6 +18,9 @@ Normal chest X-ray images
 Pneumonia chest X-ray images
 
 Dataset split:
+
 Training set
+
 Validation set
+
 Testing set
